@@ -106,32 +106,32 @@
    "specializedlawyerscontentehome": " Our law firm offers a comprehensive range of 30+ legal services globally. With a team of over 40 specialized",
 
    "specializedlawyershome": [{
-       "src": "../../../assets/images/home/icon_11.webp",
+       "src": "assets/images/home/icon_11.webp",
        "titleicon": "International Cases",
        "titlecontent": "   Thanks to our relentless pursuit of becoming one of the premier international law firms in Egypt, mohamed atef saber has assembled a team of international lawyers specializing in international commercial arbitration and international trade in Egypt and the Middle East."
      },
      {
-       "src": "../../../assets/images/home/icon_12.webp",
+       "src": "assets/images/home/icon_12.webp",
        "titleicon": "Commercial Cases",
        "titlecontent": "     If you starting a business, you will need commercial lawyer 's support to finalize commercial contracts and corporate lawyer's support to establish your company and handle all legal matters.  mohamed atef saber experts are here to support you throughout your journey."
      },
      {
-       "src": "../../../assets/images/home/icon_13.webp",
+       "src": "assets/images/home/icon_13.webp",
        "titleicon": "Financial Cases",
        "titlecontent": "      Our financial lawyers support clients in banking and compensation cases. and they work to achieve clients' goals such as establishing tax records and contributing effectively to the financial aspects of company formation."
      },
      {
-       "src": "../../../assets/images/home/icon_14.webp",
+       "src": "assets/images/home/icon_14.webp",
        "titleicon": "Criminal Cases",
        "titlecontent": "mohamed atef saber ‘s crime lawyer represents clients in courts in criminal cases such as theft, murder, drug offenses, administrative corruption, and others, with the aim of advocating for the client and achieving justice."
      },
      {
-       "src": "../../../assets/images/home/icon_15.webp",
+       "src": "assets/images/home/icon_15.webp",
        "titleicon": "Real Estate Cases",
        "titlecontent": " mohamed atef saber Law Firm provides professional legal services in the field of  real estate development for investors and companies. Our real estate  lawyers also draft and register all types of property contracts,  whether commercial or residential."
      },
      {
-       "src": "../../../assets/images/home/icon_16.webp",
+       "src": "assets/images/home/icon_16.webp",
        "titleicon": "Civil Cases",
        "titlecontent": " mohamed atef saber Law Firm excels in civil cases, providing dedicated representation for individuals and businesses. Our experienced civil lawyers navigate legal complexities, offering effective advocacy and optimal results."
      }
@@ -144,34 +144,34 @@
    "legalservicescontentehome": " Our law firm offers a comprehensive range of 30+ legal services globally. With a team of over 40 specialized",
 
    "legalserviceshome": [{
-       "src": "../../../assets/images/home/icon_7.webp",
+       "src": "assets/images/home/icon_7.webp",
        "titleicon": "Legal Advice",
        "titlecontent": " Legal aid from a specialized lawyer who supports your goal and provides the best legal solutions for your case."
      },
      {
-       "src": "../../../assets/images/home/icon_8.webp",
+       "src": "assets/images/home/icon_8.webp",
        "titleicon": "Corporate Services",
        "titlecontent": " If you want to invest in Egypt, let us become your legal partners from the start of your business.  mohamed atef saber Law Firm provides professional services in company establishment, corporate law and legal affairs."
      },
      {
-       "src": "../../../assets/images/home/icon_9.webp",
+       "src": "assets/images/home/icon_9.webp",
        "titleicon": "Contract Drafting",
        "titlecontent": "We draft all contracts for your company registration and agreements that regulate the relationship between the parties to ensure the completion of tasks. Please leave it to mohamed saber atef Law Firm and let your business take over. "
      },
      {
-       "src": "../../../assets/images/home/icon_8.webp",
+       "src": "assets/images/home/icon_8.webp",
        "titleicon": "Activity License ",
        "titlecontent": "We grant you a license to practice activity for your company, which guarantees stability for your company and obtaining exclusive privileges while starting your own business."
      },
      {
-       "src": "../../../assets/images/home/icon_9.webp",
+       "src": "assets/images/home/icon_9.webp",
        "titleicon": "General Assemblies",
        "titlecontent": " With time, you may need to add partners, remove partners, or make adjustments in the powers of management, commercial activity, or capital. We take care of this matter and hold general and non-public assemblies. "
      },
 
 
      {
-       "src": "../../../assets/images/home/icon_8.webp",
+       "src": "assets/images/home/icon_8.webp",
        "titleicon": "Trademark registration",
        "titlecontent": "Entrepreneurs usually start their businesses without paying attention to the urgent necessity of registering a trademark. Protect your company and register the trademark. We know that it is a market value that will bring you a lot of money. "
      },
@@ -187,7 +187,7 @@
 
 
      {
-       "src": "../../../assets/images/home/icon_10.webp",
+       "src": "assets/images/home/icon_10.webp",
        "titleicon": "Dispute Resolution",
        "titlecontent": " Our office specializes in arbitration and dispute resolution and adjudicating all business, financial, and social disputes between individuals, companies, and various institutions. We are rated as one of the best arbitration law firms in Egypt for our success."
      }
@@ -196,19 +196,19 @@
    "chooseustitlehome": "Why Choose Us As a Legal Partner?",
    "chooseuscontenthome": "  mohamed atef saber Law Firm has ethics that guide the working mechanism, in addition to the principles of lawyers and partners working in the office. Our clients witnessed the strength of our office and the confidence in dealing with us, and the following principles are what you will find when dealing with us:",
    "chooseushome": [{
-       "src": "../../../assets/images/home/icon_3.webp",
+       "src": "assets/images/home/icon_3.webp",
        "titleicon": "Trust Is Our Priority"
      },
      {
-       "src": "../../../assets/images/home/icon_4.webp",
+       "src": "assets/images/home/icon_4.webp",
        "titleicon": "Confidentiality"
      },
      {
-       "src": "../../../assets/images/home/icon_5.webp",
+       "src": "assets/images/home/icon_5.webp",
        "titleicon": "Quick Legal Solutions"
      },
      {
-       "src": "../../../assets/images/home/icon_6.webp",
+       "src": "assets/images/home/icon_6.webp",
        "titleicon": "Customer Satisfaction"
      }
    ],
