@@ -106,32 +106,32 @@
    "specializedlawyerscontentehome": " Our law firm offers a comprehensive range of 30+ legal services globally. With a team of over 40 specialized",
 
    "specializedlawyershome": [{
-       "src": "../../../assets/images/home/icon_11.webp",
+       "src": "assets/images/home/icon_11.webp",
        "titleicon": "International Cases",
        "titlecontent": "   Thanks to our relentless pursuit of becoming one of the premier international law firms in Egypt, mohamed atef saber has assembled a team of international lawyers specializing in international commercial arbitration and international trade in Egypt and the Middle East."
      },
      {
-       "src": "../../../assets/images/home/icon_12.webp",
+       "src": "assets/images/home/icon_12.webp",
        "titleicon": "Commercial Cases",
        "titlecontent": "     If you starting a business, you will need commercial lawyer 's support to finalize commercial contracts and corporate lawyer's support to establish your company and handle all legal matters.  mohamed atef saber experts are here to support you throughout your journey."
      },
      {
-       "src": "../../../assets/images/home/icon_13.webp",
+       "src": "assets/images/home/icon_13.webp",
        "titleicon": "Financial Cases",
        "titlecontent": "      Our financial lawyers support clients in banking and compensation cases. and they work to achieve clients' goals such as establishing tax records and contributing effectively to the financial aspects of company formation."
      },
      {
-       "src": "../../../assets/images/home/icon_14.webp",
+       "src": "assets/images/home/icon_14.webp",
        "titleicon": "Criminal Cases",
        "titlecontent": "mohamed atef saber ‘s crime lawyer represents clients in courts in criminal cases such as theft, murder, drug offenses, administrative corruption, and others, with the aim of advocating for the client and achieving justice."
      },
      {
-       "src": "../../../assets/images/home/icon_15.webp",
+       "src": "assets/images/home/icon_15.webp",
        "titleicon": "Real Estate Cases",
        "titlecontent": " mohamed atef saber Law Firm provides professional legal services in the field of  real estate development for investors and companies. Our real estate  lawyers also draft and register all types of property contracts,  whether commercial or residential."
      },
      {
-       "src": "../../../assets/images/home/icon_16.webp",
+       "src": "assets/images/home/icon_16.webp",
        "titleicon": "Civil Cases",
        "titlecontent": " mohamed atef saber Law Firm excels in civil cases, providing dedicated representation for individuals and businesses. Our experienced civil lawyers navigate legal complexities, offering effective advocacy and optimal results."
      }
@@ -144,34 +144,34 @@
    "legalservicescontentehome": " Our law firm offers a comprehensive range of 30+ legal services globally. With a team of over 40 specialized",
 
    "legalserviceshome": [{
-       "src": "../../../assets/images/home/icon_7.webp",
+       "src": "assets/images/home/icon_7.webp",
        "titleicon": "Legal Advice",
        "titlecontent": " Legal aid from a specialized lawyer who supports your goal and provides the best legal solutions for your case."
      },
      {
-       "src": "../../../assets/images/home/icon_8.webp",
+       "src": "assets/images/home/icon_8.webp",
        "titleicon": "Corporate Services",
        "titlecontent": " If you want to invest in Egypt, let us become your legal partners from the start of your business.  mohamed atef saber Law Firm provides professional services in company establishment, corporate law and legal affairs."
      },
      {
-       "src": "../../../assets/images/home/icon_9.webp",
+       "src": "assets/images/home/icon_9.webp",
        "titleicon": "Contract Drafting",
        "titlecontent": "We draft all contracts for your company registration and agreements that regulate the relationship between the parties to ensure the completion of tasks. Please leave it to mohamed saber atef Law Firm and let your business take over. "
      },
      {
-       "src": "../../../assets/images/home/icon_8.webp",
+       "src": "assets/images/home/icon_8.webp",
        "titleicon": "Activity License ",
        "titlecontent": "We grant you a license to practice activity for your company, which guarantees stability for your company and obtaining exclusive privileges while starting your own business."
      },
      {
-       "src": "../../../assets/images/home/icon_9.webp",
+       "src": "assets/images/home/icon_9.webp",
        "titleicon": "General Assemblies",
        "titlecontent": " With time, you may need to add partners, remove partners, or make adjustments in the powers of management, commercial activity, or capital. We take care of this matter and hold general and non-public assemblies. "
      },
 
 
      {
-       "src": "../../../assets/images/home/icon_8.webp",
+       "src": "assets/images/home/icon_8.webp",
        "titleicon": "Trademark registration",
        "titlecontent": "Entrepreneurs usually start their businesses without paying attention to the urgent necessity of registering a trademark. Protect your company and register the trademark. We know that it is a market value that will bring you a lot of money. "
      },
@@ -187,7 +187,7 @@
 
 
      {
-       "src": "../../../assets/images/home/icon_10.webp",
+       "src": "assets/images/home/icon_10.webp",
        "titleicon": "Dispute Resolution",
        "titlecontent": " Our office specializes in arbitration and dispute resolution and adjudicating all business, financial, and social disputes between individuals, companies, and various institutions. We are rated as one of the best arbitration law firms in Egypt for our success."
      }
@@ -196,19 +196,19 @@
    "chooseustitlehome": "Why Choose Us As a Legal Partner?",
    "chooseuscontenthome": "  mohamed atef saber Law Firm has ethics that guide the working mechanism, in addition to the principles of lawyers and partners working in the office. Our clients witnessed the strength of our office and the confidence in dealing with us, and the following principles are what you will find when dealing with us:",
    "chooseushome": [{
-       "src": "../../../assets/images/home/icon_3.webp",
+       "src": "assets/images/home/icon_3.webp",
        "titleicon": "Trust Is Our Priority"
      },
      {
-       "src": "../../../assets/images/home/icon_4.webp",
+       "src": "assets/images/home/icon_4.webp",
        "titleicon": "Confidentiality"
      },
      {
-       "src": "../../../assets/images/home/icon_5.webp",
+       "src": "assets/images/home/icon_5.webp",
        "titleicon": "Quick Legal Solutions"
      },
      {
-       "src": "../../../assets/images/home/icon_6.webp",
+       "src": "assets/images/home/icon_6.webp",
        "titleicon": "Customer Satisfaction"
      }
    ],
@@ -238,64 +238,64 @@
 
 
    "sectionServices": [{
-       "src": "../../assets/images/home/icon-2.png",
+       "src": "assets/images/home/icon-2.png",
        "title": "Service",
        "subtitle": "placeholder text for use",
        "contentdetails": "Lawyer Muhammed atef saber established his first law firm in 2008 in cairo. Over time, the Office's successes have begun to grow among clients on various issues; He also contributed to building a mass base of clients from giza and Cairo governorates. With the increase in requests for legal services such as litigation, dispute resolution, and real estate development,  Over a few years, the Office had a track record of legal successes; At that moment, as the Office's legal lawyers and advisers had increased, the idea and vision of mohamed atef saber had arisen. ",
        "link": "/service",
-       "arrow": "../../assets/images/home/arrow.png"
+       "arrow": "assets/images/home/arrow.png"
      },
      {
-       "src": "../../assets/images/home/icon-3.png",
+       "src": "assets/images/home/icon-3.png",
        "title": "Experience",
        "subtitle": "Our Cliens",
        "contentdetails": "We are happy to be part of the success story of these leading brands, and we seek to be trusted by international brands ",
        "link": "/experience",
-       "arrow": "../../assets/images/home/arrow.png"
+       "arrow": "assets/images/home/arrow.png"
      },
      {
-       "src": "../../assets/images/home/icon-1.png",
+       "src": "assets/images/home/icon-1.png",
        "title": "About US",
        "subtitle": "placeholder text for use",
        "contentdetails": "Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage",
        "link": "/about-us",
-       "arrow": "../../assets/images/home/arrow.png"
+       "arrow": "assets/images/home/arrow.png"
      }
    ],
 
 
    "homepersonslides": [{
-       "src": "../../assets/images/home/avatar1.png",
+       "src": "assets/images/home/avatar1.png",
        "details": "Mohammad Atef Saber",
        "person": "Owner and manager of Mohamed Atef’s office",
        "jobTitle": "Owner and manager of Mohamed Atef’s office"
      },
      {
-       "src": "../../assets/images/home/avatar2.png",
+       "src": "assets/images/home/avatar2.png",
        "details": "Omar Badway",
        "person": "General Manager",
        "jobTitle": "General Manager"
      },
      {
-       "src": "../../assets/images/home/avatar3.png",
+       "src": "assets/images/home/avatar3.png",
        "details": "Ahmed Shoayra",
        "person": "Manger The Cases Department",
        "jobTitle": "the Cases Department"
      },
      {
-       "src": "../../assets/images/home/avatar4.png",
+       "src": "assets/images/home/avatar4.png",
        "details": "Dina Ahmed",
        "person": "Manger The Humman Resources",
        "jobTitle": "Human Resources Department"
      },
      {
-       "src": "../../assets/images/home/avatar4.png",
+       "src": "assets/images/home/avatar4.png",
        "details": "Habiba Shiref",
        "person": "Manager of Corporate Department",
        "jobTitle": "Corporate Department"
      },
      {
-       "src": "../../assets/images/home/avatar4.png",
+       "src": "assets/images/home/avatar4.png",
        "details": "Shiref Qasem",
        "person": "manger of External and Government Relations",
        "jobTitle": "External and Government Relations Department"
@@ -307,31 +307,31 @@
    "headerAboutusparagraph_2": "What the administrative staff of Mohamed Atef Saber Law Office deserves to obtain legal advice, as it is distinguished by an elite group of the best lawyers claiming various rights; Which defines an integration of experiences and training rules in different specializations. Thanks to this partnership between the group, we participate in a professional partnership with them, and what motivates us are the customer reviews about the movie stars of the office’s members from the best lawyers and legal consultants.",
    "personInfo": [{
        "_comment": "about-us.component",
-       "src": "../../assets/images/home/avatar4.png",
+       "src": "assets/images/home/avatar4.png",
        "person": "Mohammad Atef Saber",
        "jobTitle": "Owner and manager of Mohamed Atef’s office"
      },
      {
-       "src": "../../assets/images/home/avatar2.png",
+       "src": "assets/images/home/avatar2.png",
        "person": "Omar Badwey",
        "jobTitle": "General Manager"
      },
      {
-       "src": "../../assets/images/home/avatar3.png",
+       "src": "assets/images/home/avatar3.png",
        "person": "Ahmed Shoayra",
        "jobTitle": "manger the cases department"
      },
      {
-       "src": "../../assets/images/home/avatar1.png",
+       "src": "assets/images/home/avatar1.png",
        "person": "Dina Ahmed",
        "jobTitle": "Manger The Humman Resources"
      },
      {
-       "src": "../../assets/images/home/avatar1.png",
+       "src": "assets/images/home/avatar1.png",
        "person": "Habiba Shiref",
        "jobTitle": "Manager of Corporate Department"
      }, {
-       "src": "../../assets/images/home/avatar1.png",
+       "src": "assets/images/home/avatar1.png",
        "person": "Shiref Qasem",
        "jobTitle": "manger of External and Government Relations"
      }
@@ -359,850 +359,850 @@
    "boxtotalparagraph_2": "We are proud of our record of success in gaining the satisfaction of valued clients inside and outside Egypt, based on nearly 20 years of legal tender and successful advice.",
    "products": [{
        "_comment": "experience.component",
-       "src": "../../assets/images/swiper/1.png",
+       "src": "assets/images/swiper/1.png",
        "logo": "شركه الهندسيه للفبير جلاس"
      },
 
      {
-       "src": "../../assets/images/swiper/Beyti.jpeg",
+       "src": "assets/images/swiper/Beyti.jpeg",
        "logo": "شركه بيتي"
      },
 
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه طارق حنفي"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه اي دي ايه للتنميه الصناعيه"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه البيطاش للنظافه والتجميل"
      },
 
      {
-       "src": "../../assets/images/swiper/egyair1.jpeg",
+       "src": "assets/images/swiper/egyair1.jpeg",
        "logo": "شركه ايجي اير"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه سراج الدين سيد عبده"
      },
 
      {
-       "src": "../../assets/images/swiper/islamic.png",
+       "src": "assets/images/swiper/islamic.png",
        "logo": "شركه الاسلاميه لسبك المعادن"
      },
 
      {
-       "src": "../../assets/images/swiper/islamic.png",
+       "src": "assets/images/swiper/islamic.png",
        "logo": "شركه الاسلاميه لسبك المعادن"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه عبد الخالق صديق عبد الباقي"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه عاصم علي محمد"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه رءؤف ادوارد ميخائيل"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه الندى"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه البيك للمواد الغذائيه"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه علاء الدين محمد السيد"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه لايفلي"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه فوزي حلمي داود"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه تشغيل المعادن"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه الاسلاميه لسباكه المعادن"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه رخصه تشغيل"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه شريف حامد حنفي"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه جرجس بخيت سمعان "
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه كوكي بلاست"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه بلاست ميكر"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "الشركه المصريه المتحده لصناعه الصابون"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه احمد عبدالسلام"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه الهندسيه للفبير جلاس"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه الجيزه للمركبات الكهربائيه"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه نيو كايرو"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": " مصنع زجمار للدراجات البخاريه"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع البلاستيك"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه جاما"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع جمال احمد عطا"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه علي عبد الله"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "المجموعه الالمانيه هيرميس القابضه"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه العربيه للبيئه الاساسيه والمقاولات"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه النجار لصناعه الهواء المضغوط"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع توشكى"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه السفير مهدي فتح الله"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ريموندينا لانتاج الحلوى الجافه والشيكولاته"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه مجدي فؤاد جرجس"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه السيد احمد اسماعيل"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه العربيه للجوارب والملابس ديما"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع البلاستيك"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ام بي للصناعه"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ماجد محمد بليغ"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع لتصنيع المنتجات الجبسيه"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه منتجات حجريه وخشبيه خاصه بالحدائق"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مخزن ادوات منزليه وخردوات"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه زجمار"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع للملابس الجاهزه والتريكو"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مخزن"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "تشكيل معادن"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه محمود محمد المرسي"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه اكرم عبد الحميد مصطفى"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "الشركه العربيه البلجيكيه للمعدات الكهربائيه "
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه شريف ناهد حلمي"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه فاروق مدبولي حنفي"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه رافت فنجري"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ناهد ابو الذهب"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ايمن عبد الفتاح"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه محمد كمال علي"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه مسعد الجوهري وشريكه"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "المصريه الالمانيه للتجاره - جاليكا"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه اعمار للاستثمار العقاري"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع خراطيم"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مخزن قطع غيار سيارات"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه عمرو الشبراوي محمد"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه محمد حسن وشركاه"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه انتر لصناعات الكمر ومكانيكه"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع تعبئه وتغليف وورشه المونيوم"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ام او تي للاستثمار والمشروعات"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه محمد فتحي احمد وشركاه"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه محمود شاكر عبد العزيز"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه سامي محمد سالم"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع سعيد عبد الباقي لتصنيع معدات المياه"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه عادل يوسف قارس"
      }, {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه بلاست ميكر للطباعه"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه محمد عبد الفتاح"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه احمد السيد جمعه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه سما للكيماويات والمخصبات الزراعيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه الشرق الاوسط - ميكو"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه العبيد لصناعه الملابس"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه شريف احمد علي حسن"
      },
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه طارق محمد صابر"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه محمد احمد مهنا"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "الشركه المصريه الالمانيه لخدمه وصيانه السيارات"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ابو المعاطي عنتر "
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه اسباير للزراعه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ابو رواش للثلج"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ملاكيت للاثاث والديكور"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع تعبئه مواد غذائيه ومخبوزات"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "ترخيص عماره سكنيه "
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع همتو للاستيراد والتصدير"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "ترخيص فيلا سكنيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مخازن فتحي عدلي احمد"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه محمد عبد العزيز محمود وشركاه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه بركه لانتاج الباب والشباك"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ايه ام انترناشونال"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مؤسسه دعاء عبد الرحمن لليتيمات"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه رضا ادور"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مشروع مطبعه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه وحيد يحيي عبد الواحد"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه عرفات عرفات مندور"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه جاتكو المنهلوي"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه هاني زكريا لتشغيل المعادن"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه عبد العال محمد "
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه 6 اكتوبر للبويات والكيماويات"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه سوبر باور"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "الشركه المصريه لصناعه الملابس"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه الحرمين للبلاستيك"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه محمد اسماعيل كامل"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع تغليف منتجات ورقيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ميناكو للاعمال الهندسه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه كيهان كعان الايبكي"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه جيرال للمشروعات الهندسيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مدرسه سيده المعونه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ماجد حارس ابراهيم"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ابو رواش للاستثمار العقاري"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه دار زين للهندسه والمقاولات"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه تكنو كريت"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع تعبئه روائح عطريه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه الاردنيه للصناعات البلاستيكيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه مجدي محمود احمد المحلاوي"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه عمرو الشبراوي محمد"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه امام امين محمد"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه الخير للاعلاف "
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه كوكي بلاست"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه خالد عز الدين"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه لطفي عرفه سليمان"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه احمد ياسر سيد"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مزرعه الوفاء لتنميه الثروه السمكيه والداجنه"
      },
 
 
 
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه سيد رجب الله وشركاه"
      },
      {
-       "src": "../../assets/images/swiper/Orange2.png",
+       "src": "assets/images/swiper/Orange2.png",
        "logo": "موبينيل"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه امين احمد محمد الجفري"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه السيد عبد الستار لصيانه السيارات"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه سما للكيماويات والمخصبات الزراعيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه سيد حسين سعيد"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه تبارك للتجاره والتوريدات"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه هشام محمد فتحي الشبراوي"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مخزن"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "المجموعه الاقتصاديه للانماء والاستثمار"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه هشام سمير احمد يوسف"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه جير بوكس"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه رويال وود"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه السواح"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه المتحده للاكياس"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه معتز احمد جوده"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه بهجت احمد حسني"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه الجيزه للمركبات الكهربائيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ايجيبت"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع الفريد صبري منصور"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "الشركه الاردنيه المصريه للطباعه والتغليف -جوباك"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع عبد العزيز منصور عبد الباقي"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه الكان ميديكال للانظمه الطبيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه تيجر للصناعات البحريه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه التوحيد للاستيراد"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "الشركه المصريه لصناعه العبوات الزجاجيه "
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه المنتدى للاستثمار والتنميه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه جاما "
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "الشركه العربيه للتنميه العقاريه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع عصام حنفي لتشغيل المعادن"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "محل ماكولات ومشروبات ساخنه وبارده"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه الجوهري لصناعه العبوات المعدنيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع حسام الدين عبد الوهاب"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه مكه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مصنع منتجات زخرفيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "رخصه عماره سكنيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ادهم جلال عبد المعبود"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه هشام محمود محمد مهران"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه امون"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه عز الدين للحلويات"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه دايموند"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه انتوس"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ميخائيل نجيب رزق الله"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه عباس على "
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مخزن اشرف السيد حامد"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه نجار بلاستيكو"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "مركز رويال كيدز "
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه مصر الحره"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه بايونير"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "جمعيه الثوره الخضراء الزراعيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "رخصه تشغيل "
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه سيف للمقاولات"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "ايجي اير"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ايهاب كرم ميلاد مجلع وشركاه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه حسين سيد ابراهيم الدجوي"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه الايمان للبلاستيك"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "اي بي سي للمنتجات البلاستيكه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه الوفاء لتشغيل المعادن"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه فتحي عدلي احمد عبد النبي"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "المؤسسه المصريه الدوليه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ثري ايه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "تقنين"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه عالم الكربون"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه اي اي سي انيرجيز"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه عمرو محمد محمود وشريكته"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ميك للتصدير"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ميني للصناعات الغذائيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه القدر"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه اي دي ايه للتنميه الصناعيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه الشرق جلوبال لايت"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "الشركه المصريه الدوليه للبطاريات الصناعيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه فوراك تراك ايجيبت"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه عصام وحسام علي"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "الشركه المصريه الدوليه لصاحبها احمد عرفه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ميني فور تريدينج"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه امداد للاثاث المكتبي"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه بورد جيمز كافيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه فيبر جلير جلوبال"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه دريم كوزمتكس"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه المصريه اللبيبه للطباعه والتغليف برنتوباك"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه جولف هايبر ايجيبت لخدمات المركبات الكهربائيه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه جو اليكرتك لحلول الطاقه النظيفه"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه عربي عبد الصادق جوده"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه سمر عبد العزيز"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه اوشن جوودز للتصنيع والتجاره والتصدير"
      },
      {
-       "src": "../../assets/images/swiper/logo3.png",
+       "src": "assets/images/swiper/logo3.png",
        "logo": "شركه ايي اي سي للتجاره والتوزيع"
      }
 
@@ -1215,7 +1215,7 @@
    "servicedata": [{
        "_comment": "service.component",
        "headtitle": "الهيئة العامة للتنمية الصناعية",
-       "src": "../../assets/images/service/ida.png",
+       "src": "assets/images/service/ida.png",
        "service": [{
            "servicetitle": " خدمات الأراضي والوحدات الصناعية",
            "info": [{
@@ -1626,7 +1626,7 @@
      {
        "_comment": "service.component",
        "headtitle": "الهيئة العامة للاستثمار والمناطق الحره",
-       "src": "../../assets/images/service/estsmar.png",
+       "src": "assets/images/service/estsmar.png",
        "service": [{
            "servicetitle": " الرخصه الذهبيه",
            "info": [{
@@ -1792,7 +1792,7 @@
 
      {
        "headtitle": "وزاره التجاره والصناعه",
-       "src": "../../assets/images/service/tegarawesanaa.png",
+       "src": "assets/images/service/tegarawesanaa.png",
        "service": [{
          "servicetitle": " ",
          "info": [{
@@ -2236,7 +2236,7 @@
 
      {
        "headtitle": "الهيئه القوميه لسلامه الغذاء",
-       "src": "../../assets/images/service/salamtel8eza.png",
+       "src": "assets/images/service/salamtel8eza.png",
        "service": [{
            "servicetitle": " تسجيل المنشات الغذائيه",
            "info": [{
@@ -2348,7 +2348,7 @@
 
      {
        "headtitle": "الشهر العقاري",
-       "src": "../../assets/images/service/shar.jpg",
+       "src": "assets/images/service/shar.jpg",
        "service": [{
            "servicetitle": "شهر شخصي",
            "info": [{
@@ -2607,7 +2607,7 @@
 
      {
        "headtitle": "الهيئة العامة للرقابه على الصادارات والواردات",
-       "src": "../../assets/images/service/goe.png",
+       "src": "assets/images/service/goe.png",
        "service": [{
            "servicetitle": " خدمات التسجبل التجاريه",
            "info": [{
@@ -2703,7 +2703,7 @@
 
      {
        "headtitle": "الاداره العامه للدفاع المدني",
-       "src": "../../assets/images/service/defaa.jpg",
+       "src": "assets/images/service/defaa.jpg",
        "service": [{
          "servicetitle": "",
          "info": [{
@@ -2718,7 +2718,7 @@
 
      {
        "headtitle": "وزاره البيئه",
-       "src": "../../assets/images/service/beaa.png",
+       "src": "assets/images/service/beaa.png",
        "service": [{
            "servicetitle": " تقيم التاثير البيئي",
            "info": [{
@@ -2822,7 +2822,7 @@
 
      {
        "headtitle": "الهيئه العامه للرقابه الماليه",
-       "src": "../../assets/images/service/money.jpg",
+       "src": "assets/images/service/money.jpg",
        "service": [{
            "servicetitle": " التسجيل و التراخيص",
            "info": [{
@@ -2938,7 +2938,7 @@
 
      {
        "headtitle": "اتحاد الصناعات المصريه",
-       "src": "../../assets/images/service/ethad.png",
+       "src": "assets/images/service/ethad.png",
        "service": [{
          "servicetitle": " تسجيل الشركات و المنشات في الغرف التاليه ",
          "info": [{
@@ -3028,7 +3028,7 @@
 
      {
        "headtitle": "شهادات الايزو",
-       "src": "../../assets/images/service/iso.jpg",
+       "src": "assets/images/service/iso.jpg",
        "service": [{
          "servicetitle": "استخراج جميع شهادات الايزو ",
          "info": [{
@@ -3132,7 +3132,7 @@
 
      {
        "headtitle": "الهيئه المصريه العامه للمواصفات و الجودة",
-       "src": "../../assets/images/service/gawda.png",
+       "src": "assets/images/service/gawda.png",
        "service": [{
            "servicetitle": "المواصفات ",
            "info": [{
@@ -3221,7 +3221,7 @@
 
      {
        "headtitle": "الهيئه القوميه للتامين الاجتماعي",
-       "src": "../../assets/images/service/tamen.png",
+       "src": "assets/images/service/tamen.png",
        "service": [{
            "servicetitle": " خدمات المؤمن عليهم",
            "info": [{
@@ -3469,7 +3469,7 @@
 
      {
        "headtitle": "الهيئه العامه للسلامه البحريه",
-       "src": "../../assets/images/service/slama.png",
+       "src": "assets/images/service/slama.png",
        "service": [{
            "servicetitle": "",
            "info": [{
@@ -3511,7 +3511,7 @@
 
      {
        "headtitle": "الاداره العامه لنظم معلومات المرور",
-       "src": "../../assets/images/service/meror.jpg",
+       "src": "assets/images/service/meror.jpg",
        "service": [{
            "servicetitle": "",
            "info": [{
